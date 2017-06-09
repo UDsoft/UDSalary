@@ -23,4 +23,20 @@ public class Job {
         this.companyName = companyName;
         this.ID = UUID.randomUUID();
     }
+
+    public UUID getID() {
+        return ID;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getCompanyName() {
+        return companyName;
+    }
 }

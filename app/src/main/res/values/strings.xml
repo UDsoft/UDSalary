@@ -4,6 +4,9 @@
     <string name="job_type_overtime">Overtime</string>
     <string name="job_type_nightshift">Nightshift</string>
     <string name="job_tye_others">Others</string>
-
+    <string name="error_job_name_empty">Job name is required.</string>
+    <string name="error_company_name_empty">Company name is required</string>
+    <string name="default_job_description">No Description</string>
+    <string name="error_incomplete_job_details">Job and Company name is required</string>
 
 </resources>

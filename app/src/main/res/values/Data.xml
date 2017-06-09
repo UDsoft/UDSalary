@@ -6,4 +6,7 @@
         <item>@string/job_type_overtime</item>
         <item>@string/job_tye_others</item>
     </string-array>
+
+    <string name="KEY_JOB_NAME">JOB_NAME</string>
+    <string name="KEY_JOB_ID">JOB_ID</string>
 </resources>
