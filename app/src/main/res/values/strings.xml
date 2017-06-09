@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UDSalary</string>
+
+
+    <string-array name="Job_type">
+        <item>Regular</item>
+        <item>Overtime</item>
+        <item>Nightshift</item>
+        <item>Others</item>
+    </string-array>
 </resources>
