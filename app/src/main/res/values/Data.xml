@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Job_type">
+        <item>@string/job_type_regular</item>
+        <item>@string/job_type_nightshift</item>
+        <item>@string/job_type_overtime</item>
+        <item>@string/job_tye_others</item>
+    </string-array>
+</resources>
